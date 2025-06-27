@@ -11,4 +11,5 @@ Methods - viewDoctors, getDoctorById
 Variables - id, patient_id(FK), doctor_id(FK), date <br>
 Methods - book appointment
 
+For JDBC, add mySQl connector jar in libraries(or we can include it as a maven dependency).
 Youtube Link-  https://youtu.be/ECoIdyfcObE?si=KqEn7N_h1yP-czHT
